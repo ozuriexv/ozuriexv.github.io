@@ -3,7 +3,6 @@ layout: post
 title: Signature Dissection - Round 1!
 date:   2023-03-14 17:39:44 +0000
 ---
-####### Recovered post from 2018
 
 Recently, I was speaking to [Forgotten](https://twitter.com/forgottensec) and a couple of others regarding the information and guidance available for truly understanding Snort/Suricata signatures.  While documentation and the odd blog post does exist, the more advanced features and lack of context for signatures can become overwhelming rather quickly without guidance.  This post aims to dissect Suricata signatures of various difficulties with explanation of how the signature works.
 
@@ -240,3 +239,5 @@ If you have stuck around for long enough to read up until this point, thank you 
 For some useful Suricata tools, tips, and tricks, head over to the [Emerging Threats Github](https://github.com/EmergingThreats).
 
 Happy new year!
+
+(post recovered from 2018)
